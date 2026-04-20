@@ -7,6 +7,14 @@
     margin: 0;
 }
 
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
 .signup-box {
     background: white;
     padding: 30px;
@@ -55,6 +63,7 @@ input, select {
     flex-direction: column;
     gap: 10px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 button {
